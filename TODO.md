@@ -7,4 +7,3 @@
 #Build out front end
 #Build out back end
 #Build slide motion effect from beyondFIRE
-#Build out slide motion effect
