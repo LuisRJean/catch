@@ -13,3 +13,4 @@
 #Have efficient running algorithm
 #Set up monitoring and logging
 #Set up CI/CD
+#Set up deployment
