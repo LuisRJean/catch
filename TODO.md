@@ -5,3 +5,4 @@
 #Server page get
 #Build out model and train
 #Build out API
+#Build out front end
