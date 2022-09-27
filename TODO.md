@@ -11,7 +11,7 @@
 #Potentially add in a few more features to the Demo to sell to the audience
 #Optimize the model
 #Have efficient running algorithm
-#
+#Set up monitoring and logging
 #
 #
 #
