@@ -12,8 +12,4 @@
 #Optimize the model
 #Have efficient running algorithm
 #Set up monitoring and logging
-#
-#
-#
-#
-#
+#Set up CI/CD
