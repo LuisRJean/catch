@@ -21,7 +21,7 @@
 
 #Advanced
 #Set up a database
-#A/B
+#A/B testing
 
 #DoneList
 #Set up the project
