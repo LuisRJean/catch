@@ -19,6 +19,7 @@
 #Set up serverside logging
 #Set up client side logging
 
+
 #Advanced
 #Set up a database
 #A/B testing
