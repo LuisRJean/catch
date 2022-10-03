@@ -20,3 +20,4 @@
 #Set up client side logging
 
 #DoneList
+#Set up the project
