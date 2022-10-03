@@ -17,3 +17,4 @@
 #Set up testing
 #Set up security
 #Set up serverside logging
+#Set up client side logging
