@@ -19,5 +19,8 @@
 #Set up serverside logging
 #Set up client side logging
 
+#Advanced
+#Set up a database
+
 #DoneList
 #Set up the project
