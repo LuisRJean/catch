@@ -16,3 +16,4 @@
 #Set up deployment
 #Set up testing
 #Set up security
+#Set up serverside logging
