@@ -26,4 +26,4 @@
 
 
 #DoneList
-#Set up the project
+#Set structure of the project
