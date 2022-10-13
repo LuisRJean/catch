@@ -6,7 +6,6 @@
 #Build out API
 #Build out front end
 #Build out back end
-#Build slide motion effect from beyondFIRE
 #Work on the presentation Demo
 #Potentially add in a few more features to the Demo to sell to the audience
 #Optimize the model
@@ -23,6 +22,7 @@
 #Advanced
 #Set up a database
 #A/B testing
+#predict various outcomes with intrinsic learning (motivation)
 
 
 #DoneList
